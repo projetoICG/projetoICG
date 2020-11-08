@@ -3,4 +3,4 @@
 
 
 The game will be based on the c ++ language using the glut and opengl library.
-sla
+
